@@ -1,1 +1,1 @@
-web: node index.js
+wceb: node index.js
