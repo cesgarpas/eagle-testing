@@ -6,5 +6,8 @@ module.exports.returnThousand = () => {
 }
 
 const returnHundred = () => {
+    console.log("returnThousand");
+    console.log("returnThousand");
+    console.log("returnThousand");
     return 100;
 }
