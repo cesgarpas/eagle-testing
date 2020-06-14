@@ -11,7 +11,5 @@ const returnHundred = () => {
     console.log("more lines!");
     console.log("more lines!");
     console.log("more lines!");
-    console.log("more lines!");
-    console.log("more lines!");
     return 100;
 }
