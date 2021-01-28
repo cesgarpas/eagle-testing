@@ -4,7 +4,7 @@ project:
   teamId: '3234'
   identities:
     pivotal:
-      url: 'https://www.pivotaltracker.com/n/projects/23542352352352352352352353'
+      url: 'https://www.pivotaltracker.com/n/projects/2242320'
     heroku:
       url: 'https://dashboard.heroku.com/apps/eagle-testing'
     travis:
