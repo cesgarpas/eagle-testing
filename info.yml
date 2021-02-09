@@ -9,8 +9,8 @@ project:
       url: 'https://eagle-testing.herokuapp.com/'
     travis:
       url: 'https://travis-ci.org/github/cesgarpas/eagle-testing'
-    codecov:
-      url: 'https://codecov.io/gh/cesgarpas/eagle-testing'
+    codeclimate:
+      url: 'https://codeclimate.com/github/cesgarpas/eagle-testing'
   members:
     member1:
       name: 'Cesar'
