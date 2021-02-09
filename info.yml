@@ -13,11 +13,11 @@ project:
       url: 'https://codecov.io/gh/cesgarpas/eagle-testing'
   members:
     member1:
-      name: 'Maria'
-      surname: 'Dominguez' 
+      name: 'Cesar'
+      surname: 'Garcia' 
       githubUsername: 'cesgarpas'
       pivotalUsername: 'cesgarpas'
-      herokuEmail: 'maria@email.com'
+      herokuEmail: 'emmm@email.com'
     member2:
       name: 'Paco'
       surname: 'Domingo' 
