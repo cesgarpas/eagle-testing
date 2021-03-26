@@ -1,3 +1,1 @@
 # eagle-testing
-
-TEST
