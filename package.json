@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "nyc": "^15.0.1",
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   },
   "nyc": {
     "exclude": [
